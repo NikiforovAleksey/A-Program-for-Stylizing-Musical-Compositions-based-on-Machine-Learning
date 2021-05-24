@@ -20,7 +20,6 @@ result_prefix = "output"
 total_variation_weight = 1e-7#1e-6
 style_weight = 1e-6 #1e-6
 content_weight = 1e-7 #2.5e-8
-
 style_content_weight = 1e-8
 
 img_nrows = 513 #257
