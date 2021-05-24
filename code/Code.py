@@ -125,11 +125,11 @@ content_layer_names = [
 ]
 
 style_content_layer_names = [
-    "block5_conv2",
-    "block4_conv2",
+    #"block5_conv2",
+    #"block4_conv2",
     "block3_conv2",
-    #"block2_conv2",
-    #"block1_conv2"
+    "block2_conv2",
+    "block1_conv2"
 ]
 
 
